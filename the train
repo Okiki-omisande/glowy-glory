@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style> 
+body    {background-color: rbg<50,40,45>;''}
+h1      {color: black;font-family: lato;border: 5px solid rrggbb<120,240,360>;"}
+p       {border: 35px solid brown;"}
+</style>
+</head>
+<body>
+<h1 style="text-colour:tomato;"><strong><title>THE TRAIN</title><strong></h1>
+<p>There's a passion in my heart<br> and a burden in my spirit<br> it is for my generation<br> are we living according to his plan?<br> there's a plan and purpose for every man<br> there's a calling for greater harvest<br> <emp>God is calling,will you answer<br>will you work on this journey of faith?<br></p>
+</body>
+</html>
